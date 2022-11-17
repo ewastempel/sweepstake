@@ -1,0 +1,20 @@
+{
+  "participants": [
+    {
+      "name": "Person1",
+      "betCount": 2
+    },
+    {
+      "name": "Person2",
+      "betCount": 2
+    },
+    {
+      "name": "Person3",
+      "betCount": 1
+    },
+    {
+      "name": "Person4",
+      "betCount": 2
+    }
+  ]
+}

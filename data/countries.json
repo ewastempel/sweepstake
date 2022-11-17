@@ -1,0 +1,100 @@
+{
+  "countries": [
+    {
+      "name": "Argentina"
+    },
+    {
+      "name": "Australia"
+    },
+    {
+      "name": "Belgium"
+    },
+    {
+      "name": "Brazil"
+    },
+    {
+      "name": "Cameroon"
+    },
+    {
+      "name": "Canada"
+    },
+    {
+      "name": "Costa Rica"
+    },
+    {
+      "name": "Croatia"
+    },
+    {
+      "name": "Denmark"
+    },
+    {
+      "name": "Ecuador"
+    },
+    {
+      "name": "England"
+    },
+    {
+      "name": "France"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "Ghana"
+    },
+    {
+      "name": "Iran"
+    },
+    {
+      "name": "Japan"
+    },
+    {
+      "name": "Korea Republic"
+    },
+    {
+      "name": "Mexico"
+    },
+    {
+      "name": "Morocco"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "Poland"
+    },
+    {
+      "name": "Portugal"
+    },
+    {
+      "name": "Qatar"
+    },
+    {
+      "name": "Saudi Arabia"
+    },
+    {
+      "name": "Senegal"
+    },
+    {
+      "name": "Serbia"
+    },
+    {
+      "name": "Spain"
+    },
+    {
+      "name": "Switzerland"
+    },
+    {
+      "name": "Tunisia"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Uruguay"
+    },
+    {
+      "name": "Wales"
+    }
+  ]
+}
