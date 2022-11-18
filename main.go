@@ -43,6 +43,7 @@ func getCountries(countriesJSON string) map[int]string {
 	fmt.Println("Countries count:", len(countries.Countries))
 	for i := 0; i < len(countries.Countries); i++ {
 		//fmt.Println("Country name:", countries.Countries[i].Name)
+		//fmt.Println(countries.Countries[i].Name)
 		result[i] = countries.Countries[i].Name
 	}
 
@@ -90,6 +91,10 @@ func AssignCountriesToParticipants(countries map[int]string, participants map[st
 	// Shuffling the keys again (not relying on the map randomness)
 	rand.Seed(time.Now().UnixNano())
 	rand.Shuffle(len(keys), func(i, j int) { keys[i], keys[j] = keys[j], keys[i] })
+	// Print the countries after shuffling the keys
+	//for key := range keys {
+	//	fmt.Println(remainingCountries[keys[key]])
+	//}
 	//fmt.Println(keys)
 
 	index := 0
