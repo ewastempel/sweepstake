@@ -15,6 +15,10 @@
     {
       "name": "Person4",
       "betCount": 2
+    },
+    {
+      "name": "Person5",
+      "betCount": 2
     }
   ]
 }
