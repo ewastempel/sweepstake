@@ -2,7 +2,7 @@
   "participants": [
     {
       "name": "Person1",
-      "betCount": 2
+      "betCount": 4
     },
     {
       "name": "Person2",
@@ -10,31 +10,31 @@
     },
     {
       "name": "Person3",
-      "betCount": 1
+      "betCount": 2
     },
     {
       "name": "Person4",
-      "betCount": 2
+      "betCount": 4
     },
     {
       "name": "Person5",
-      "betCount": 2
+      "betCount": 4
     },
     {
       "name": "Person6",
-      "betCount": 2
+      "betCount": 4
     },
     {
       "name": "Person7",
-      "betCount": 2
+      "betCount": 4
     },
     {
       "name": "Person8",
-      "betCount": 2
+      "betCount": 4
     },
     {
       "name": "Person9",
-      "betCount": 2
+      "betCount": 4
     }
   ]
 }
